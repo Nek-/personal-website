@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/wallhaven-19139.jpg"
 layout: landing-page
 heading: Nek's blog.
 partners:
