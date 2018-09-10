@@ -1,4 +1,5 @@
 ---
+label: Posts
 hide_body: false
 is_partial: false
 fields:
@@ -53,8 +54,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/example-draft.md
-- _posts/2017-09-25-introduction.md
 - _posts/2017-02-12-modern.md
 - _posts/2017-08-22-research.md
 - _posts/2017-08-01-welcome.md
+- _posts/2017-09-25-introduction.md
+- _posts/example-draft.md
