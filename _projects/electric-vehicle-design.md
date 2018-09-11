@@ -3,8 +3,8 @@ title: Woketo
 tags:
 - research
 date: 2018-09-11 20:07:50 +0200
-banner_image: "/uploads/2018/02/25/car.jpg"
-sub_heading: 'Human centered design in the electric vehicle era '
+banner_image: "/uploads/phpcoeurwebsocket.png"
+sub_heading: PHP ❤️WebSockets
 slug: ''
 
 ---
