@@ -18,6 +18,12 @@ menu:
     weight: 2
 
 ---
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+# Hello!
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+I'm Nek. Aka Maxime Veber. And also a backend developer that like to play with all that touch computing. Basically it means that I code un PHP/Symfony but I also do TypeScript and Kernel modules. As well as server configuration.
+
+I'm a frenchy guy but I can also speak english. I love watching pro gamers playing LeagueOfLegends, and I also like losing against other noobs on LeagueOfLegends. Sometimes I play piano, sometimes I go to the gym.
+
+That's basically all about my life. ¯\\_(ツ)_/¯
+
+_I hope you like this mini website._
