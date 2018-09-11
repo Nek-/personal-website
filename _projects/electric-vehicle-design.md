@@ -1,7 +1,6 @@
 ---
 title: Woketo
-tags:
-- research
+tags: []
 date: 2018-09-11 20:07:50 +0200
 banner_image: "/uploads/phpcoeurwebsocket.png"
 sub_heading: PHP ❤️WebSockets
