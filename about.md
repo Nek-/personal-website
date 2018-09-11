@@ -1,13 +1,13 @@
 ---
 title: About
-date: 2017-11-01 03:00:00 +0000
+date: 2018-09-11 04:00:00 +0200
 banner_image: "/uploads/wallhaven-keyboard.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+heading: About Maxime Veber
+sub_heading: Backend Developer
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
-publish_date: 2017-12-01 04:00:00 +0000
+textline: "\U0001F1EB\U0001F1F7\U0001F1FA\U0001F1F8 I do TypeScript but still don't
+  understand how works SystemJS !"
+publish_date: 2018-09-11 05:00:00 +0200
 show_staff: true
 menu:
   footer:
