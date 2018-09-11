@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Yes, this is were I write.
+sub_heading: ''
 textline: Insights about TypeScript & Symfony
 hero_button:
   text: Learn more
