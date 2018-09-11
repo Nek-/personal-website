@@ -1,7 +1,7 @@
 ---
 title: Home
 banner_image: "/uploads/wallhaven-triangles.jpg"
-layout: landing-page
+layout: posts
 heading: Nek's blog.
 partners: []
 services: []
