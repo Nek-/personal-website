@@ -3,7 +3,7 @@ title: Nekland Tools
 date: 2016-05-26 02:00:00 +0200
 categories: []
 description: Some tools for PHP developers
-banner_image: "/uploads/2018/02/17/neurons.jpg"
+banner_image: "/uploads/cover_nekland_tools.png"
 sub_heading: A set of tested tools
 tags: []
 slug: ''
