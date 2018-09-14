@@ -25,5 +25,3 @@ I'm Nek. Aka Maxime Veber. And also a backend developer that like to play with a
 I'm a frenchy guy but I can also speak english. I love watching pro gamers playing LeagueOfLegends, and I also like losing against other noobs on LeagueOfLegends. Sometimes I play piano, sometimes I go to the gym.
 
 That's basically all about my life. ¯\\_(ツ)_/¯
-
-_I hope you like this mini website._
