@@ -4,11 +4,9 @@ date: 2018-09-14 02:00:00 +0200
 categories: []
 description: Gangbowl is a game I'm working on. Challenges are physics and realtime
   playing.
-banner_image: "/uploads/2018/02/17/bridge3.jpg"
+banner_image: "/uploads/COVER  _Social media.jpg"
 sub_heading: A soccer game
-tags:
-- engineering
-- research
+tags: []
 slug: ''
 
 ---
