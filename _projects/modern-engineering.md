@@ -1,23 +1,25 @@
 ---
-title: Modern Engineering Textbook
-date: 2016-04-20 00:00:00 +0000
+title: Gangbowl
+date: 2018-09-14 02:00:00 +0200
 categories: []
-description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
-  Program for Canada'
+description: Gangbowl is a game I'm working on. Challenges are physics and realtime
+  playing.
 banner_image: "/uploads/2018/02/17/bridge3.jpg"
-sub_heading: A post-modern taking on Engineering in the Digital World
+sub_heading: A soccer game
 tags:
 - engineering
 - research
 slug: ''
+
 ---
+# Gangbowl
 
-## Overview
+_Friends and me like so much the game Haxball, but this game suffer of_ insufficient _investment by its creator (no fun stuff, complicated UI, lag...). That's why we decided to make a concurrent that get rid of this drawbacks._
 
-Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the last 3 years with leading professionals in the continental US to develop a modern curriculum for Engineering students.
+I don't want to spoil too much on this game we're working on. So I will just expose some points which are interesting to know about technologies we use and/or tried.
 
-## Editions
+## What front-end tools ?
 
-* Edition One - 2016
-
-* Edition Two - 2017
+* Typescript: no discussions. We hate JavaScript, so we love TypeScript. I let you see their [official website](https://www.typescriptlang.org/) and [try it](https://www.typescriptlang.org/play/index.html) to convince yourself about the benefices of TypeScript.
+* Pixi.js & Box2d: pixi is a nice wrapper for canvasjs features and Box2d is probably the best physic engine for 2d stuff. Speaking of Box2d, we are using the awesome work of flyover: [https://github.com/flyover/box2d.ts](https://github.com/flyover/box2d.ts "https://github.com/flyover/box2d.ts")
+* Angular: it's coded in TypeScript, it's opensource and maintained, we know how it work and it's not bad... I guess it's a good choice.
